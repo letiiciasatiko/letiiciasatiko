@@ -102,10 +102,10 @@
     <br>
 
   <div align="center">
-    <img height="153"align="center"alt="GitHub"src="https://github-readme-stats.vercel.app/api/?username=leticiasatiko&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=prussian&font=iosevka"/>
-    <img height="153"align="center"alt="Languages"src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasatiko&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=prussian"/>
+    <img height="153"align="center"alt="GitHub"src="https://github-readme-stats.vercel.app/api/?username=letiiciasatiko&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=prussian&font=iosevka"/>
+    <img height="153"align="center"alt="Languages"src="https://github-readme-stats.vercel.app/api/top-langs/?username=letiiciasatiko&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=prussian"/>
     <br><br>
-    <img align="center"alt="Summary"src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiasatiko&theme=prussian"/>
+    <img align="center"alt="Summary"src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=letiiciasatiko&theme=prussian"/>
     <br><br>
 </details>
 
